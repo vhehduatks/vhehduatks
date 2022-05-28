@@ -1,9 +1,11 @@
 <div align="center"> 
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vhehduatks)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vhehduatks&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gudghks)](https://solved.ac/gudghks/)  
-  
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhehduatks&layout=compact&theme=radical)](https://github.com/vhehduatks/github-readme-stats)  
+
 </div>
 
 ---
@@ -39,7 +41,9 @@
   <br>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgudghks%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=git.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)  
+
 </div>
 
 
