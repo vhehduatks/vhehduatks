@@ -9,7 +9,7 @@
   
   # 💻 HyeongHwan Shin
   
-  🌱 I’m currently learning Deeplearing
+  🌱 
   
   <a href="https://velog.io/@vhehduatks"><img src="https://img.shields.io/badge/vhehduatks.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
  
